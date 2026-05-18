@@ -1,0 +1,23 @@
+{
+  "store_info": {
+    "name": "The Milky Way",
+    "description": "The best milkshakes in the galaxy",
+    "phone_number": "555-0199"
+  },
+  "milkshakes": [
+    {
+      "id": "1",
+      "name": "Classic Vanilla Bean",
+      "description": "Thick, creamy, and made with real Madagascar vanilla.",
+      "origin": "House Recipe",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "name": "Double Fudge Brownie",
+      "description": "Chocolate ice cream loaded with brownie chunks and fudge syrup.",
+      "origin": "House Recipe",
+      "price": 7
+    }
+  ]
+}
